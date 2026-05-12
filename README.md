@@ -312,18 +312,30 @@ Temporary fix:
 * run RGBD-only SLAM
 
 ---
+---
 
-# 📊 Results
+# 📸 Project Images
 
-Successfully achieved:
+## 🌍 RTAB-Map RGBD SLAM Result
 
-✅ RGBD Visual SLAM
-✅ Real-time 3D Mapping
-✅ Point Cloud Reconstruction
-✅ RTAB-Map Integration
-✅ RViz Visualization
-✅ RealSense D435i Integration
-✅ ROS 2 Humble Workflow
+<p align="center">
+  <img src="ChatGPT Image May 12, 2026, 11_17_45 AM.png" width="900"/>
+</p>
+<p align="center">
+  <img src="f891ba1a-f7ec-4c71-aa6f-b2f2e2f4ce2a.png" width="500"/>
+</p>
+<p align="center">
+  <img src="17fd5bed-3020-4bee-9ad5-3f4244833cef.png" width="500"/>
+</p>
+
+### Features Achieved
+
+- ✅ Real-time RGBD SLAM
+- ✅ 3D Point Cloud Mapping
+- ✅ Live Trajectory Tracking
+- ✅ Loop Closure Detection
+- ✅ RTAB-Map + RViz Integration
+- ✅ Intel RealSense D435i Integration
 
 ---
 
