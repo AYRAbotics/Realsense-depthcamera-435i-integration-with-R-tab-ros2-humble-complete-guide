@@ -319,9 +319,6 @@ Temporary fix:
 ## 🌍 RTAB-Map RGBD SLAM Result
 
 <p align="center">
-  <img src="ChatGPT Image May 12, 2026, 11_17_45 AM.png" width="900"/>
-</p>
-<p align="center">
   <img src="f891ba1a-f7ec-4c71-aa6f-b2f2e2f4ce2a.png" width="500"/>
 </p>
 <p align="center">
